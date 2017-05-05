@@ -5,8 +5,8 @@ A first commit
 Investigating to check
 * authoring experience
 * viewing experience.
-* {{ aschauer.github.io/conrefs.yml/general.repeat }}
-* {{ aschauer.github.io.conrefs.general.repeat }}
-* {{ site.data.conrefs.general.repeat }}
+* Test {{ aschauer.github.io/conrefs.yml/general.repeat }}
+* Test {{ aschauer.github.io.conrefs.general.repeat }}
+* Test {{ site.data.conrefs.general.repeat }}
 
 Some additional info.
