@@ -7,6 +7,6 @@ Investigating to check
 * viewing experience.
 * {{ aschauer.github.io/conrefs.yml/general.repeat }}
 * {{ aschauer.github.io.conrefs.general.repeat }}
-* {{ conrefs.general.repeat }}
+* {{ site.data.conrefs.general.repeat }}
 
 Some additional info.
